@@ -9,6 +9,6 @@ services:
         - LORA_REGION=EU868
         - LORA_UDP=1680
         - SPI_SPEED=2000000
-        - PIN_RESET=11
-        - MINER_URL=helium.p22.de #default "helium-miner"
+        - PIN_RESET=17
+        - MINER_URL=helium.p22.de
     privileged: true
