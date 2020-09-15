@@ -10,5 +10,4 @@ services:
         - LORA_UDP=1680
         - SPI_SPEED=2000000
         - MINER_URL=helium.p22.de
-        - PIN_RESET=17
     privileged: true
